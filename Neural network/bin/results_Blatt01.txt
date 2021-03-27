@@ -1,0 +1,31 @@
+veronika.dim99,  29.04.2019, 16:45:44
+Korrektur Blatt 1
+
+Aufgabe 3.1
+	Checks Implementation of Constructor of CorticalNeuron: 4/4
+	Checks Implementation of Constructor of Interneuron: 4/4
+	Checks Implementation of Constructor of Photoreceptor: 0/7
+	  java.lang.AssertionError: Exception expected. expected:<true> but was:<false>
+Total points for Aufgabe 3.1: 8/15
+
+Aufgabe 3.2
+	Checks implementation of addSynapse in Network: 3/3
+	Checks implementation of the get methods.: 3/3
+	Checks implementation of addSynapse of Photoreceptor: 0/4
+	  java.lang.AssertionError: Exception expected. expected:<true> but was:<false>
+Total points for Aufgabe 3.2: 6/10
+
+Aufgabe 3.3
+	Checks implementation of constructor in Network: 25/25
+Total points for Aufgabe 3.3: 25/25
+
+Aufgabe 3.4
+	Checks implementation of intergrateSignal in Interneuron: 0/15
+	  java.lang.AssertionError: Wrong result. Possible skaling issues. expected:<true> but was:<false>
+Total points for Aufgabe 3.4: 0/15
+
+Aufgabe 3.5
+	Checks implementation of signalprocessing in Network: 35/35
+Total points for Aufgabe 3.5: 35/35
+
+Total points: 74/100
